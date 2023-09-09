@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend development**
 
-- 📫 How to reach me **zamirovakylbek@gmail.com**
+- 📫 How to reach me **zamirovakylbek920@gmail.com**
 
 - ⚡ Fun fact **I'm a sleep lover, pluviophile and perfectionist**
 
