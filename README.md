@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **zamirovakylbek920@gmail.com**
 
-- ⚡ Fun fact **I'm a sleep lover, pluviophile and perfectionist**
+- ⚡ Fun fact **I'm a bookworm, pluviophile and perfectionist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
