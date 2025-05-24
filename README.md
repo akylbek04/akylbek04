@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/akylbek" target="blank"><img src="https://img.shields.io/twitter/follow/akylbek?logo=twitter&style=for-the-badge" alt="akylbek" /></a> </p>
 
-- 🔭 I’m currently looking for **Frontend/Fullstack** positions
-
-- 🌱 I’m currently learning **Next.js and Gatsby**
+- 🌱 I’m currently learning **Python and Fast API**
 
 - 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **zamirovakylbek920@gmail.com**
-
-- ⚡ Fun fact **I'm a bookworm, pluviophile and perfectionist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
